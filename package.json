@@ -1,0 +1,12 @@
+{
+  "name": "netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Building your new static site!\""
+  },
+  "keywords": [],
+  "author": "Alan Klein",
+  "license": "ISC"
+}
