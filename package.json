@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Building your new static site!\""
+    "build": "netlify-lambda build functions"
   },
   "keywords": [],
   "author": "Alan Klein",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "netlify-lambda": "^1.4.5"
+  }
 }
